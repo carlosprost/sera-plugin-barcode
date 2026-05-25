@@ -1,7 +1,7 @@
 {
   "id": "sera-plugin-barcode",
   "name": "Generador de Código de Barras 🏷️",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Dibuja de forma interactiva e interactúa con códigos de barras numéricos (EAN-13 y Code-128) de forma 100% offline.",
   "author": "WolfTeI",
   "icon": "qr_code",

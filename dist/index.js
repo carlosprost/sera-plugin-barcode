@@ -103,6 +103,7 @@
       return `
         <span 
           class="badge-barcode-btn"
+          data-value="${cleanVal}"
           onclick="window.SeraAPI_barcode_show('${cleanVal}')"
           title="Click para ver código de barras offline"
         >
